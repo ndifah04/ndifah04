@@ -4,8 +4,6 @@
 
 I'm a passionate learner in cloud computing, computational engineering, and big data analytics. Currently, I'm participating in the **Bangkit 2024 Program** as a Cloud Computing major while also pursuing my studies at **Universitas Muhammadiyah Makassar**.
 
-![Pink Cute Cat](https://chat.openai.com/mnt/data/A_cute_and_funny_pink_cartoon_cat_wearing_oversize.png)
-
 ### 🌟 About Me
 - ☁️ **Cloud Computing** practitioner with expertise in Terraform, Google Cloud, and networking
 - 🖥️ **Software Developer** with experience in **React, Java, Python**, and backend technologies
