@@ -21,3 +21,4 @@ I'm a passionate learner in cloud computing, computational engineering, and big 
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/galbi-nadifah-3810072a9/)  
+[![Dicoding](https://img.shields.io/badge/Dicoding-blue?style=flat&logo=dicoding)](https://www.dicoding.com/users/galbi-nadifah/academies)  
